@@ -2,7 +2,7 @@
 
 
 ## Project Description:
-The task for my coding bootcamp homework was to make a way to make random passwords. First, the user must click the "Generate Password" button. This will bring up a question asking how many characters the user wants their password to be. Then it asks more questions based on the type of characters the user wants to include: lowercase, uppercase, numbers, and special characters (standard is to include all but in this task we let the user decide). Then, based on the user's choices, the program will pick characters at random and make a password.
+The task for my coding bootcamp homework was to make a way to make random passwords using Javascript. First, the user must click the "Generate Password" button. This will bring up a question asking how many characters the user wants their password to be. Then it asks more questions based on the type of characters the user wants to include: lowercase, uppercase, numbers, and special characters (standard is to include all but in this task we let the user decide). Then, based on the user's choices, the program will pick characters at random and make a password.
 
 
 
