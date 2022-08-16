@@ -13,7 +13,7 @@ The task for my coding bootcamp homework was to make a way to make random passwo
 
 
 ## Demo:
-<img src="Screen Shot 2022-08-08 at 1.37.18 PM.png">
+<img src="Screen Shot 2022-08-16 at 2.47.29 PM.png">
 https://sarahvaci.github.io/password-generator/
 
 <br>
